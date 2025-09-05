@@ -14,7 +14,6 @@ int main(){
     dq.pop_back();
     dq.pop_front(); 
 
-    //I have removed the changes
 
     dq.back();
     dq.front();
