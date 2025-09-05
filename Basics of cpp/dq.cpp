@@ -12,8 +12,9 @@ int main(){
     dq.emplace_front(4);
 
     dq.pop_back();
-    dq.pop_front();
+    dq.pop_front(); 
 
+    // I have done some changes
 
     dq.back();
     dq.front();
