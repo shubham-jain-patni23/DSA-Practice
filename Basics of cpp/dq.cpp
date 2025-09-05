@@ -13,7 +13,7 @@ int main(){
 
     dq.pop_back();
     dq.pop_front(); 
-
+    
 
     dq.back();
     dq.front();
