@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 //this library includes all the files
-//I am making updates from the github
+
 using namespace std;
 
 void print1(int n){
