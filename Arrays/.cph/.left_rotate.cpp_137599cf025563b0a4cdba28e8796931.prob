@@ -1,0 +1,1 @@
+{"name":"Local: left_rotate","url":"c:\\Users\\lenovo\\Desktop\\DSA\\Arrays\\left_rotate.cpp","tests":[{"id":1757375654497,"input":"5\n2\n1 2 3 4 5\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\lenovo\\Desktop\\DSA\\Arrays\\left_rotate.cpp","group":"local","local":true}

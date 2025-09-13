@@ -25,6 +25,21 @@ void insertion_sort(int arr[],int n){
 
 }
 
+void fun_rec(int arr[],int idx, int n){
+    if(idx >= n){
+        return ; 
+    }
+    int key = arr[idx];
+    int j = idx - 1;
+
+    while(j>=0 && arr[j] > key){
+        arr[j+1] = arr[j];
+        j--;
+    }
+    arr[j+1] = key;
+    fun_rec(arr,idx + 1,n);
+}
+
 void fun(int arr[],int n){
 
     for(int i =1;i<=n-1;i++){
@@ -50,7 +65,7 @@ int main(){
         cin>>arr[i];
     }
 
-    fun(arr,n);
+    fun_rec(arr,0,n);
 
     for(int i = 0;i<n;i++){
         cout<<arr[i]<<" ";

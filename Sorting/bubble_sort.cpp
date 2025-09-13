@@ -26,6 +26,21 @@ void bubble_sort(int arr[],int n){
 
 }
 
+void fun_rec(int arr[],int n){
+    if(n < 2){
+        return ;
+    }
+    int x = n-2;
+
+    for(int i = 0;i<=x;i++){
+        if(arr[i] > arr[i+1]){
+            swap(arr,i,i+1);
+        }
+    }
+
+    fun_rec(arr,n-1);
+}
+
 int main(){
 
     int n;
@@ -37,7 +52,8 @@ int main(){
         cin>>arr[i];
     }
 
-    bubble_sort(arr,n);
+    //bubble_sort(arr,n);
+    fun_rec(arr,n);
 
     for(int i = 0;i<n;i++){
         cout<<arr[i]<<" ";

@@ -42,5 +42,8 @@ int main(){
     check_prime(n) ? cout<<"prime"<<endl: cout<<"not prime"<<endl;
     check_prime2(n) ? cout<<"prime" : cout<<"not prime"<<endl;
 
+
+    cout<<"Jai Jinendra"<<endl;
+
 return 0;
 }

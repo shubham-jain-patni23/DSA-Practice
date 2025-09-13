@@ -1,0 +1,1 @@
+{"name":"Local: find_union","url":"c:\\Users\\lenovo\\Desktop\\DSA\\Arrays\\find_union.cpp","tests":[{"id":1757429481613,"input":"6 6 \n1 1 2 3 4 5\n2 3 4 4 5 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\lenovo\\Desktop\\DSA\\Arrays\\find_union.cpp","group":"local","local":true}
