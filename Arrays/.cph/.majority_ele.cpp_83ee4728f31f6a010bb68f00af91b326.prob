@@ -1,0 +1,1 @@
+{"name":"Local: majority_ele","url":"c:\\Users\\lenovo\\Desktop\\DSA\\Arrays\\majority_ele.cpp","tests":[{"id":1759021270030,"input":"16\n7 7 5 7 \n5 1 5 7 \n5 5 7 7 \n5 5 5 5\n\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\lenovo\\Desktop\\DSA\\Arrays\\majority_ele.cpp","group":"local","local":true}

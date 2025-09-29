@@ -1,0 +1,1 @@
+{"name":"Local: merge_overlapping_intervals","url":"c:\\Users\\lenovo\\Desktop\\DSA\\Arrays\\merge_overlapping_intervals.cpp","tests":[{"id":1759065358181,"input":"5\n2 3 \n4 5\n6 7\n8 9\n1 10","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\lenovo\\Desktop\\DSA\\Arrays\\merge_overlapping_intervals.cpp","group":"local","local":true}
