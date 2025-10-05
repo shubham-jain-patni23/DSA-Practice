@@ -1,0 +1,1 @@
+{"name":"Local: book_allocation","url":"c:\\Users\\lenovo\\Desktop\\DSA\\Binary Search\\book_allocation.cpp","tests":[{"id":1759479795377,"input":"4 2\n12 34 67 90 ","output":"113"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\lenovo\\Desktop\\DSA\\Binary Search\\book_allocation.cpp","group":"local","local":true}

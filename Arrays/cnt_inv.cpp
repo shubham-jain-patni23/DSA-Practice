@@ -25,9 +25,9 @@ int merge(int arr[],int low ,int mid , int high){
             arr[k] = a[i];
             i++;
         }
-        else{
+        else{// b[j] is smaller
             arr[k] = b[j];
-            inv+= (j +1);
+            inv+= (n1 - i);  //b[j] will also be smaller than all ele which are after a[i]
             j++;
             
         }
@@ -70,6 +70,8 @@ int main(){
     for(int i = 0;i<n;i++){
         cin>>arr[i];
     }
+    
+    //approach 1; checking for every ele ;    TC ---> O(n^2)   ; SC ---> O(1)
 
     int ans = cnt_inv(arr,0,n-1);
 

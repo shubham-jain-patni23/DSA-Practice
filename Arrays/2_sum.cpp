@@ -121,7 +121,7 @@ int main(){
     cout<<firstidx<<" "<<secondidx<<endl;
 
 
-    //approach 4; Time complexity:    O(n) + O(nlogn)  ==> O(n)
+    //approach 4; Time complexity:    O(n) + O(nlogn)  ==> O(nlogn)
     //            Space complexity : O(1) 
 
     vector<pair<int,int>> v(n);

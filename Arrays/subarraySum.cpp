@@ -45,9 +45,11 @@ int main(){
         sum+= arr[i];
         int temp = sum - k;
 
-        if(mp.find(temp)!=mp.end()){
-            cnt+= mp[temp];
-        }
+        // if(mp.find(temp)!=mp.end()){
+        //     cnt+= mp[temp];
+        // }
+        // it can also update cnt directly
+        cnt+= mp[temp];
         mp[sum]++;
     }
 

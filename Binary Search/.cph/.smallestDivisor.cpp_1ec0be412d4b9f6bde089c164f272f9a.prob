@@ -1,0 +1,1 @@
+{"name":"Local: smallestDivisor","url":"c:\\Users\\lenovo\\Desktop\\DSA\\Binary Search\\smallestDivisor.cpp","tests":[{"id":1759455237138,"input":"4 6\n1 2 5 9 ","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\lenovo\\Desktop\\DSA\\Binary Search\\smallestDivisor.cpp","group":"local","local":true}

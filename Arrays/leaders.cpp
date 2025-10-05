@@ -13,8 +13,11 @@ int main(){
         cin>>arr[i];
     }
 
+    //approach 1 ;  TC ---> O(n) + O(n) = O(2n) ==> O(n) ; SC ---> O(n)
+    //find the leaders first and then reverse the ans vector such that ele appear in order they appear in the array
+
     vector<int> ans;
-    
+
     int maxi = arr[n-1];
     ans.push_back(arr[n-1]);
 

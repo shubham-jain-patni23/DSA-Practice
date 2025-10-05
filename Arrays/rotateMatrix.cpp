@@ -14,9 +14,9 @@ int main(){
         }
     }
 
-    //approach 1 ; transpose and then swap
+    //approach 1 ; transpose and then swap ; TC ---> O(n^2) + O(n^2) = O(2n^2)   ; SC---> O(1)
 
-    //transpose
+    //transpose     ; O(n*(n+1)/2)
 
     for(int i =0;i<n;i++){
         for(int j = 0;j<i;j++){
@@ -26,6 +26,7 @@ int main(){
 
     int start = 0, end = n-1;
 
+    //reversing all the rows            ; O(n/2 * n)
     while(start<end){
         for(int i = 0;i<n;i++){
             swap(arr[i][start], arr[i][end]);

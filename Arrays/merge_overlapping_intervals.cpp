@@ -32,6 +32,7 @@ int main(){
     //approach1 : we sorted the array and then merged the overlapped intervals ; TC ---> O(nlogn) + O(n) ===> O(nlogn) ; SC --> O(1)
     //sort(v.begin(),v.end(),mycomp);
 
+
     sort(v.begin(),v.end(),[](pair<int,int> p1,pair<int,int> p2) {      //lambda function
         if(p1.first!=p2.first){
             return p1.first < p2.first;
@@ -56,7 +57,7 @@ int main(){
         ans.push_back(temp);
         i = j - 1;
     }
-
+    
     for(auto it : ans){
         cout<<it.first<<" "<<it.second<<endl;
     }

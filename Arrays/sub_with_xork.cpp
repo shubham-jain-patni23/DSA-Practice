@@ -30,6 +30,7 @@ int main(){
         if(mp.find(x)!=mp.end()){
             cnt+=mp[x];
         }
+        //cnt+= mp[x]       ; we can also directly write it like this without checking for it
         mp[curr]++;
     }
 

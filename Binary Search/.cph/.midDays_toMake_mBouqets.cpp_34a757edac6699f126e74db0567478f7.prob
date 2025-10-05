@@ -1,0 +1,1 @@
+{"name":"Local: midDays_toMake_mBouqets","url":"c:\\Users\\lenovo\\Desktop\\DSA\\Binary Search\\midDays_toMake_mBouqets.cpp","tests":[{"id":1759412507879,"input":"7 2 3\n7 7 7 7 12 7 7   ","output":"12"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\lenovo\\Desktop\\DSA\\Binary Search\\midDays_toMake_mBouqets.cpp","group":"local","local":true}

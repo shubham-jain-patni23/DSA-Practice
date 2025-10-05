@@ -1,0 +1,1 @@
+{"name":"Local: splitArray","url":"c:\\Users\\lenovo\\Desktop\\DSA\\Binary Search\\splitArray.cpp","tests":[{"id":1759481959204,"input":"5 2\n7 2 5 10 8 ","output":"18"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\lenovo\\Desktop\\DSA\\Binary Search\\splitArray.cpp","group":"local","local":true}
