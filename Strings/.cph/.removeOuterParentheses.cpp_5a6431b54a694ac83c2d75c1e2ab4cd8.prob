@@ -1,0 +1,1 @@
+{"name":"Local: removeOuterParentheses","url":"c:\\Users\\lenovo\\Desktop\\DSA\\Strings\\removeOuterParentheses.cpp","tests":[{"id":1759646838129,"input":"(()())(())","output":"()()()"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\lenovo\\Desktop\\DSA\\Strings\\removeOuterParentheses.cpp","group":"local","local":true}

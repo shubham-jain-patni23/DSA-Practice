@@ -1,0 +1,1 @@
+{"name":"Local: isRotated_string","url":"c:\\Users\\lenovo\\Desktop\\DSA\\Strings\\isRotated_string.cpp","tests":[{"id":1759659543165,"input":"abcde cdeab","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\lenovo\\Desktop\\DSA\\Strings\\isRotated_string.cpp","group":"local","local":true}

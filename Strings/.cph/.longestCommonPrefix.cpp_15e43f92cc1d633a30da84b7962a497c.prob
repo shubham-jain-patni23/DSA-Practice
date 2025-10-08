@@ -1,0 +1,1 @@
+{"name":"Local: longestCommonPrefix","url":"c:\\Users\\lenovo\\Desktop\\DSA\\Strings\\longestCommonPrefix.cpp","tests":[{"id":1759656746335,"input":"3\nflower flow flight","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\lenovo\\Desktop\\DSA\\Strings\\longestCommonPrefix.cpp","group":"local","local":true}

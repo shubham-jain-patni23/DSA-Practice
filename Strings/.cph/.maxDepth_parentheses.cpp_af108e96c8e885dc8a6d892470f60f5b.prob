@@ -1,0 +1,1 @@
+{"name":"Local: maxDepth_parentheses","url":"c:\\Users\\lenovo\\Desktop\\DSA\\Strings\\maxDepth_parentheses.cpp","tests":[{"id":1759662854181,"input":"()(())((()()))","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\lenovo\\Desktop\\DSA\\Strings\\maxDepth_parentheses.cpp","group":"local","local":true}

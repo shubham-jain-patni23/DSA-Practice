@@ -1,0 +1,1 @@
+{"name":"Local: largestOddNumber","url":"c:\\Users\\lenovo\\Desktop\\DSA\\Strings\\largestOddNumber.cpp","tests":[{"id":1759655790057,"input":"524465561654","output":""},{"id":1759655998459,"input":"264884","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\lenovo\\Desktop\\DSA\\Strings\\largestOddNumber.cpp","group":"local","local":true}

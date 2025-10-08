@@ -1,0 +1,1 @@
+{"name":"Local: isAnagram","url":"c:\\Users\\lenovo\\Desktop\\DSA\\Strings\\isAnagram.cpp","tests":[{"id":1759660180930,"input":"anagram nagaram","output":""},{"id":1759660383728,"input":"rat car","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\lenovo\\Desktop\\DSA\\Strings\\isAnagram.cpp","group":"local","local":true}
