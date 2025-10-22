@@ -1,0 +1,1 @@
+{"name":"Local: doexist_subseq_with_sum_k","url":"c:\\Users\\lenovo\\Desktop\\DSA\\Recursion\\doexist_subseq_with_sum_k.cpp","tests":[{"id":1759932529645,"input":"7 8\n10 1 2 7 6 1 5","output":"Yes"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\lenovo\\Desktop\\DSA\\Recursion\\doexist_subseq_with_sum_k.cpp","group":"local","local":true}

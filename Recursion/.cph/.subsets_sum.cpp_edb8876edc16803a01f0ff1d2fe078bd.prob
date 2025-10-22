@@ -1,0 +1,1 @@
+{"name":"Local: subsets_sum","url":"c:\\Users\\lenovo\\Desktop\\DSA\\Recursion\\subsets_sum.cpp","tests":[{"id":1759979012707,"input":"3\n10 89 34","output":"0 10 34 44 89 99 123 133"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\lenovo\\Desktop\\DSA\\Recursion\\subsets_sum.cpp","group":"local","local":true}
