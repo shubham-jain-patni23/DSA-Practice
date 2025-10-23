@@ -1,0 +1,1 @@
+{"name":"Local: cntPartitions_withDiffd","url":"c:\\Users\\lenovo\\Desktop\\DSA\\DP\\cntPartitions_withDiffd.cpp","tests":[{"id":1761217749047,"input":"5 5\n1 3 3 2 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\lenovo\\Desktop\\DSA\\DP\\cntPartitions_withDiffd.cpp","group":"local","local":true}
