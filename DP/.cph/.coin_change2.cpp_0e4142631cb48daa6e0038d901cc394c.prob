@@ -1,0 +1,1 @@
+{"name":"Local: coin_change2","url":"c:\\Users\\lenovo\\Desktop\\DSA\\DP\\coin_change2.cpp","tests":[{"id":1761278793090,"input":"3 5\n1 2 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\lenovo\\Desktop\\DSA\\DP\\coin_change2.cpp","group":"local","local":true}
