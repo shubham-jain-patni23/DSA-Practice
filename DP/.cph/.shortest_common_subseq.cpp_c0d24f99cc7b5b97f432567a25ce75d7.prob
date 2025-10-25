@@ -1,0 +1,1 @@
+{"name":"Local: shortest_common_subseq","url":"c:\\Users\\lenovo\\Desktop\\DSA\\DP\\shortest_common_subseq.cpp","tests":[{"id":1761369977718,"input":"abac cab","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\lenovo\\Desktop\\DSA\\DP\\shortest_common_subseq.cpp","group":"local","local":true}
