@@ -1,0 +1,1 @@
+{"name":"Local: cycle_detection_UndirectedGraph","url":"c:\\Users\\lenovo\\Desktop\\DSA\\Graphs\\cycle_detection_UndirectedGraph.cpp","tests":[{"id":1761905566397,"input":"5 3\n0 3\n4 2\n1 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\lenovo\\Desktop\\DSA\\Graphs\\cycle_detection_UndirectedGraph.cpp","group":"local","local":true}

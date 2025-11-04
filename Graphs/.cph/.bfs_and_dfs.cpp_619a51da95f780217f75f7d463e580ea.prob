@@ -1,0 +1,1 @@
+{"name":"Local: bfs_and_dfs","url":"c:\\Users\\lenovo\\Desktop\\DSA\\Graphs\\bfs_and_dfs.cpp","tests":[{"id":1761788050829,"input":"8 8\n1 2\n1 6\n2 3 \n2 4\n6 7\n6 8\n4 5\n7 5 \n6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\lenovo\\Desktop\\DSA\\Graphs\\bfs_and_dfs.cpp","group":"local","local":true}
